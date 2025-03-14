@@ -18,3 +18,7 @@ print(lista)
 while 3 in lista:
     lista.remove(3)
     print(lista)
+
+ValorRemovido = lista.pop(2)
+print(ValorRemovido)
+print(lista)
