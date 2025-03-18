@@ -27,3 +27,7 @@ print(f"o número 2 aparecem: {count} vezes")
 lista_desordenada = [50, 20, 80, 10, 40]
 lista_desordenada.sort()
 print(lista_desordenada)
+
+lista_invertida = ["maça", "banana", "laranja", "uva"]
+lista_invertida.reverse()
+print(lista_invertida)
