@@ -2,7 +2,7 @@
 
 # Crie uma matriz 3x3 com cada elemento prenchido com valores sequenciais de 1 a 9
 matriz = [[1,2,3],[4,5,6],[7,8,9]]
-marcador = "X"
+marcador = "X"aaa
 
 while True:
   # Imprima cada linha da matriz em um linha diferente.
